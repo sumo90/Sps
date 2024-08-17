@@ -32,7 +32,7 @@ Welcome to the Stone Paper Scissors game! This is a simple, fun, and interactive
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/stone-paper-scissors-game.git
+    git clone https://github.com/sumo90/sps.git
     ```
 2. **Navigate to the project directory**:
     ```bash
